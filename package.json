@@ -1,0 +1,11 @@
+{
+  "name": "githubzulul",
+  "version": "1.0.0",
+  "description": "ZULUBOT",
+  "main": "SoundBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evaisa",
+  "license": "ISC"
+}
